@@ -1,40 +1,16 @@
 {
   "books": [
     {
-      "title": "gfgfg",
+      "title": "lpo",
       "id": 1
     },
     {
-      "title": "Harry",
+      "title": "Proto",
       "id": 2
     },
     {
-      "title": "huy",
+      "title": "Golem",
       "id": 3
-    },
-    {
-      "title": "uy",
-      "id": 4
-    },
-    {
-      "title": "kl",
-      "id": 5
-    },
-    {
-      "title": "ewe",
-      "id": 6
-    },
-    {
-      "title": "ngh",
-      "id": 7
-    },
-    {
-      "title": "ty",
-      "id": 8
-    },
-    {
-      "title": "pi",
-      "id": 9
     }
   ]
 }
