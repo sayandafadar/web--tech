@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Natalie Dickens",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handmade Bronze Gloves",
+      "id": 1
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=64449",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=65434",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=34861",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=81964",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=73405",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=79960",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=9413",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "imgUrl": "https://loremflickr.com/150/150/abstract?lock=59639",
+      "id": 12
+    }
+  ]
+}
